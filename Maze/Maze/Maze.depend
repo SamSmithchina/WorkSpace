@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1527574168 source:f:\file\projectworkstation\maze\maze\maze.cpp
+	"Include.h"
+	"MazeGraph.h"
+	"Stack.h"
+
+1527505034 f:\file\projectworkstation\maze\maze\include.h
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<Windows.h>
+
+1527563118 f:\file\projectworkstation\maze\maze\mazegraph.h
+	"Stack.h"
+
+1527559767 f:\file\projectworkstation\maze\maze\stack.h
+	"Include.h"
+	<vector>
+
+1527567425 source:f:\file\projectworkstation\maze\maze\mazegraph.cpp
+	"MazeGraph.h"
+	<time.h>
+
+1527567327 source:f:\file\projectworkstation\maze\maze\stack.cpp
+	"Stack.h"
+	<iomanip>
+
