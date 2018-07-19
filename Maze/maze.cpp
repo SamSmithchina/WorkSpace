@@ -7,7 +7,7 @@
 *
 * Editor： sam 
 * Time：	2018-06-05 09:13:07
-* Modification：
+* Modification：  已经上传到git hub
 *
 * ********************************************************************
 * Copyright (c) $year$ ShenZhen Kindom Cor., Ltd. All rights reserved.
@@ -49,7 +49,6 @@ int main()
 	//for (k = 0,count =1; k < 1; k++)
 	//{
 		D = Up;
-
 		//myStack.InitStack();
 		//开一张地图
 		myMaze.CreateMaze();
@@ -200,7 +199,9 @@ int main()
 		cout << "***													***" << endl;
 		cout << "\n\n*********************************************************\n\n" << endl;
 		system("pause");
+
 //	}//for 运行10张地图;
-	return 0;
+
 	myStack.~Stack();
+	return 0;
 }

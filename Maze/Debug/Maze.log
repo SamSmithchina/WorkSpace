@@ -1,5 +1,6 @@
-﻿  MazeGraph.cpp
+﻿  maze.cpp
+f:\file\projectworkstation\maze\maze\include.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 f:\file\projectworkstation\maze\maze\mazegraph.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 f:\file\projectworkstation\maze\maze\stack.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-f:\file\projectworkstation\maze\maze\include.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\file\projectworkstation\maze\maze\maze.cpp(60): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
   Maze.vcxproj -> F:\file\ProjectWorkstation\Maze\Debug\Maze.exe
